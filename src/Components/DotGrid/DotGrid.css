@@ -1,0 +1,25 @@
+/* DotGrid.css */
+
+.dot-grid {
+  /* Mengeluarkan elemen dari alur normal dan menjadikannya lapisan */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  /* Mendorong lapisan ini ke paling belakang, di bawah konten lain */
+  z-index: -1;
+  overflow: hidden;
+}
+
+.dot-grid__wrap {
+  width: 100%;
+  height: 100%;
+}
+
+.dot-grid__canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
