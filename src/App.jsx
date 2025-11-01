@@ -284,7 +284,7 @@ function App() {
                             </div>
                             <div className="relative w-full md:w-2/5 bg-blue-100/80 min-h-[50vh] md:min-h-screen rounded-4xl shadow-2xl">
                                 <div className="absolute inset-0 flex items-center justify-center">
-                                    <motion.img src="src/assets/self_picture.png" alt="Portrait of Alvin Linardi" className="h-full w-full object-cover origin-center scale-130" initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 1, delay: 0.4 }} />
+                                    <motion.img src="/self_picture.png" alt="Portrait of Alvin Linardi" className="h-full w-full object-cover origin-center scale-130" initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 1, delay: 0.4 }} />
                                 </div>
                                 <div className="absolute top-0 right-0 h-full flex items-center p-4 md:p-6">
                                     <h2 className="text-blue-900/50 font-bold text-2xl md:text-3xl" style={{ writingMode: 'vertical-rl' }}>ALVIN LINARDI</h2>
