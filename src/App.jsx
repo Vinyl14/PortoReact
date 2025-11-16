@@ -180,7 +180,7 @@ function App() {
             description: "AI Chat similar to ChatGPT which uses OpenAI API to generate responses based on user input.",
             techStack: "React, Tailwind CSS",
             projectType: "AI Chat Platform",
-            link: "https://fe-yipiti.onrender.com/",
+            link: "https://github.com/Vinyl14/FE-yipiti",
         },
         {
             icon: <FaPython />,
@@ -188,7 +188,7 @@ function App() {
             description: "A RESTful API that manages user authentication, chats history, and API Calling for Yipiti Frontend.",
             techStack: "Python, PostgreSQL",
             projectType: "Backend API",
-            link: "https://yipiti-backend.onrender.com/docs#",
+            link: "https://github.com/Vinyl14/yipiti-backend",
         },
         {
             icon: <ReactIcon />,
@@ -196,7 +196,7 @@ function App() {
             description: "A personal portfolio website built with React and Framer Motion to showcase my skills and projects.",
             techStack: "React, Tailwind CSS",
             projectType: "Frontend",
-            link: "https://github.com/",
+            link: "https://github.com/Vinyl14/PortoReact",
         },
         {
             icon: <GoIcon />,
@@ -204,7 +204,7 @@ function App() {
             description: "A full-stack stock management platform with user authentication, product catalog, and inventory tracking.",
             techStack: "HTMX, GoLang, PostgreSQL",
             projectType: "Full-stack",
-            link: "https://github.com/",
+            link: "https://github.com/Vinyl14/StockOverview",
         },
         {
             icon: <VuejsIcon />,
@@ -212,7 +212,7 @@ function App() {
             description: "A Kanban-style task management application to help users organize their workflow and tasks.",
             techStack: "Vue.js, SpringBoot",
             projectType: "Web App",
-            link: "https://github.com/",
+            link: "https://github.com/Vinyl14/TaskIT-FE",
         },
         {
             icon: <ReactIcon />,
