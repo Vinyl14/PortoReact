@@ -305,7 +305,7 @@ function App() {
                                                 <h3 className="text-2xl font-bold border-b-2 border-blue-500 pb-2 mb-4">Summary</h3>
                                                 <h4 className="text-xl font-semibold">Alvin Linardi</h4>
                                                 <p className="text-gray-600 mt-2 text-sm">
-                                                    Passionate and Practical Undergraduate Computer Science student who's looking forward for experience creating and developing sectors using dedicated tools.
+                                                    Final-year Computer Science student with over 1 year of hands-on experience in Full Stack Development. Skilled in Vue.js, React Native, and Java Spring Boot with a proven track record of optimizing internal tools and customer-facing apps. Currently seeking a challenging internship opportunity to leverage technical expertise while awaiting graduation.
                                                 </p>
                                                 <ul className="mt-4 space-y-2 text-gray-600 text-sm">
                                                     <li>Jl. Prambanan Raya Perum Astor Blok F3 NO 3</li>
