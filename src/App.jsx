@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import reactLogo from "./assets/react.svg";
+import { motion } from 'framer-motion';
 import "./App.css";
 import DotGrid from "./Components/DotGrid/DotGrid.jsx";
 import LogoLoop from "./Components/LogoLoop/LogoLoop.jsx";
